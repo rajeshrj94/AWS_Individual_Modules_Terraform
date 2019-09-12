@@ -89,7 +89,4 @@ terraform output -json > output_values.json
 Authors
 =======
 
-**Originally created and maintained by [Rajesh Medisetti]
-
-
-(https://github.com/rajeshrj94)**
+**Originally created and maintained by [Rajesh Medisetti](https://github.com/rajeshrj94)**
